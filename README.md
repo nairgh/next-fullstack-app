@@ -1,3 +1,13 @@
+This is a NextJS fullstack application using mongo db as backend. 
+
+Login using email/password, google cloud, github authentication
+
+create an env file and and provide the environment variables as per the application and credentials.
+
+![image2](https://github.com/user-attachments/assets/0855c38b-1d51-48b9-a958-125fbdea7058)
+
+![image](https://github.com/user-attachments/assets/2a9066e7-4161-452d-8a73-a6bc6b77596e)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
